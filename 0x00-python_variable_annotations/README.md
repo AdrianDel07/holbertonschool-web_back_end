@@ -14,4 +14,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **David De La Hoz** - [daviddlhz](https://github.com/daviddlhz)
+* **Adrian De La Asuncion** - [AdrianDel07](https://github.com/AdrianDel07)

@@ -1,0 +1,4 @@
+*.eslintrc.js
+
+#Main
+*main.js

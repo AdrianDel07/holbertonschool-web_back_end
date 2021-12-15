@@ -1,5 +1,5 @@
-export default function getFullResponseFromAPI(success) {
+function getFullResponseFromAPI(success) {
   return success
     ? Promise.resolve({ status: 200, body: 'Success' })
-    : Promise.reject('The fake API is not working currently');
+    : Promise.reject(Error('The fake API is not working currently'));
 }
